@@ -90,17 +90,17 @@
 
 <table>
   <tr>
-    <td width="72" align="center" style="border: none;">
+    <td width="72" align="center">
       <a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO">
-        <img src="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c82e6" width="64" style="border-radius: 8px;" alt="Album Cover" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png" width="64" height="64" alt="Album Cover" />
       </a>
     </td>
-    <td style="border: none;">
-      <a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO" style="text-decoration: none; color: inherit;">
-        <b>CHIHIRO</b><br/>
-        <sub>Billie Eilish</sub><br/>
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="160" height="18" alt="equalizer" />
-      </a>
+    <td>
+      <a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO">
+        <b>CHIHIRO</b>
+      </a><br/>
+      <sub>Billie Eilish</sub><br/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="160" height="18" alt="equalizer" />
     </td>
   </tr>
 </table>
