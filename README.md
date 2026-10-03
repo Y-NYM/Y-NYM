@@ -73,14 +73,8 @@
 ## Now Playing 🎧
 
 <a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO">
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png" width="92" height="92" alt="CHIHIRO" />
+  <img src="https://raw.githubusercontent.com/Y-NYM/Y-NYM/main/spotify.svg" width="480" alt="Now Playing" />
 </a>
-
-&nbsp; <a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO"><b><font size="4">CHIHIRO</font></b></a><br/>
-&nbsp; <font size="3" color="#8b949e">Billie Eilish</font><br/>
-&nbsp; <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220" height="24" alt="equalizer" />
-
-<br clear="left"/>
 
 <details>
   <summary><b>Playlist & Artists ▾</b></summary>
