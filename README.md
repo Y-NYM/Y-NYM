@@ -72,12 +72,95 @@
 
 ## Now Playing 🎧
 
-<a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO">
-  <img src="https://raw.githubusercontent.com/Y-NYM/Y-NYM/main/spotify.svg" width="480" alt="Now Playing" />
-</a>
+<table>
+  <tr>
+    <td width="92" align="center">
+      <a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO">
+        <img src="https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png" width="88" height="88" alt="Album Cover" />
+      </a>
+    </td>
+    <td>
+      <a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO">
+        <b>CHIHIRO</b>
+      </a>&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" height="18" alt="Spotify" /><br/>
+      <sub>Billie Eilish</sub><br/><br/>
+      <img src="https://img.shields.io/badge/%E2%96%82%E2%96%83%E2%96%85%E2%96%87%E2%96%86%E2%96%84%E2%96%82%E2%96%85%E2%96%87%E2%96%88%E2%96%86%E2%96%84%E2%96%82%E2%96%85%E2%96%87-1db954?style=flat-square&labelColor=090d13&color=1db954" height="20" alt="Equalizer" />
+    </td>
+  </tr>
+</table>
+
+### 🎧 Favorite Tracks
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png" width="38" height="38" alt="CHIHIRO" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO"><b>CHIHIRO</b></a><br/>
+      &nbsp; <sub>Billie Eilish</sub>
+    </td>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/Billie%20Eilish%20L%27AMOUR%20DE%20MA%20VIE">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png" width="38" height="38" alt="L'AMOUR DE MA VIE" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/Billie%20Eilish%20L%27AMOUR%20DE%20MA%20VIE"><b>L'AMOUR DE MA VIE</b></a><br/>
+      &nbsp; <sub>Billie Eilish</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20Say%20Yes%20To%20Heaven">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/en/2/29/BornToDieAlbumCover.png" width="38" height="38" alt="Say Yes To Heaven" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20Say%20Yes%20To%20Heaven"><b>Say Yes To Heaven</b></a><br/>
+      &nbsp; <sub>Lana Del Rey</sub>
+    </td>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20National%20Anthem">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/en/2/29/BornToDieAlbumCover.png" width="38" height="38" alt="National Anthem" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20National%20Anthem"><b>National Anthem</b></a><br/>
+      &nbsp; <sub>Lana Del Rey</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/Mitski%20First%20Love%20Late%20Spring">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/en/f/f8/Mitskipuberty2.jpg" width="38" height="38" alt="First Love / Late Spring" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/Mitski%20First%20Love%20Late%20Spring"><b>First Love / Late Spring</b></a><br/>
+      &nbsp; <sub>Mitski</sub>
+    </td>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/Mitski%20A%20Pearl">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/en/f/f8/Mitskipuberty2.jpg" width="38" height="38" alt="A Pearl" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/Mitski%20A%20Pearl"><b>A Pearl</b></a><br/>
+      &nbsp; <sub>Mitski</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9F%D0%B0%D0%BF%D0%B8%D0%BD%D0%B0%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D0%BD%D0%B8%D1%86%D0%B0">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0_%28%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82_%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%B2_%D0%902%29_2019_%28cropped%29.jpg" width="38" height="38" alt="Папина любовница" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9F%D0%B0%D0%BF%D0%B8%D0%BD%D0%B0%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D0%BD%D0%B8%D1%86%D0%B0"><b>Папина любовница</b></a><br/>
+      &nbsp; <sub>Монеточка</sub>
+    </td>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9A%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D1%80%D0%B0%D0%B7">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0_%28%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82_%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%B2_%D0%902%29_2019_%28cropped%29.jpg" width="38" height="38" alt="Каждый раз" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9A%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D1%80%D0%B0%D0%B7"><b>Каждый раз</b></a><br/>
+      &nbsp; <sub>Монеточка</sub>
+    </td>
+  </tr>
+</table>
 
 <details>
-  <summary><b>Playlist & Artists ▾</b></summary>
+  <summary><b>View Full Discography & More Tracks ▾</b></summary>
 
 <b>Billie Eilish</b><br/>
 <a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO"><code>CHIHIRO</code></a> · <a href="https://open.spotify.com/search/Billie%20Eilish%20BITTERSUITE"><code>BITTERSUITE</code></a> · <a href="https://open.spotify.com/search/Billie%20Eilish%20L%27AMOUR%20DE%20MA%20VIE"><code>L'AMOUR DE MA VIE</code></a> · <a href="https://open.spotify.com/search/Billie%20Eilish%20L%27AMOUR%20DE%20MA%20VIE%20%5Bover%20now%5D"><code>L'AMOUR DE MA VIE [over now]</code></a> · <a href="https://open.spotify.com/search/Billie%20Eilish%20everybody%20dies"><code>everybody dies</code></a> · <a href="https://open.spotify.com/search/Billie%20Eilish%20Your%20Power"><code>Your Power</code></a><br/><br/>
