@@ -16,6 +16,10 @@
 
 <br>
 
+<img src="./assets/blue-hour.gif" width="100%" alt="Animated midnight-blue pixel art: rain over a quiet coastal railway station, with shimmering water and lights">
+
+<br>
+
 ## About me
 
 <img align="right" src="https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png" width="180" alt="Billie Eilish — HIT ME HARD AND SOFT">
@@ -130,19 +134,91 @@ Billie Eilish<br><br>
 </table>
 
 <details>
-  <summary>More tracks</summary>
+<summary>More tracks</summary>
 
-<b>Billie Eilish</b><br/>
-<a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO">CHIHIRO</a> · <a href="https://open.spotify.com/search/Billie%20Eilish%20BITTERSUITE">BITTERSUITE</a> · <a href="https://open.spotify.com/search/Billie%20Eilish%20L%27AMOUR%20DE%20MA%20VIE">L'AMOUR DE MA VIE</a> · <a href="https://open.spotify.com/search/Billie%20Eilish%20L%27AMOUR%20DE%20MA%20VIE%20%5Bover%20now%5D">L'AMOUR DE MA VIE [over now]</a> · <a href="https://open.spotify.com/search/Billie%20Eilish%20everybody%20dies">everybody dies</a> · <a href="https://open.spotify.com/search/Billie%20Eilish%20Your%20Power">Your Power</a><br/><br/>
+<h4>Billie Eilish</h4>
+<table width="100%">
+<tr>
+<td width="50%"><a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO"><img align="left" src="./assets/covers/billieeilish-chihiro.jpg" width="64" height="64" alt="HIT ME HARD AND SOFT"></a>&nbsp; <a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO"><b>CHIHIRO</b></a><br>&nbsp; <sub>Billie Eilish</sub></td>
+<td width="50%"><a href="https://open.spotify.com/search/Billie%20Eilish%20BITTERSUITE"><img align="left" src="./assets/covers/billieeilish-bittersuite.jpg" width="64" height="64" alt="HIT ME HARD AND SOFT"></a>&nbsp; <a href="https://open.spotify.com/search/Billie%20Eilish%20BITTERSUITE"><b>BITTERSUITE</b></a><br>&nbsp; <sub>Billie Eilish</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://open.spotify.com/search/Billie%20Eilish%20L%27AMOUR%20DE%20MA%20VIE"><img align="left" src="./assets/covers/billieeilish-lamourdemavie.jpg" width="64" height="64" alt="HIT ME HARD AND SOFT"></a>&nbsp; <a href="https://open.spotify.com/search/Billie%20Eilish%20L%27AMOUR%20DE%20MA%20VIE"><b>L'AMOUR DE MA VIE</b></a><br>&nbsp; <sub>Billie Eilish</sub></td>
+<td width="50%"><a href="https://open.spotify.com/search/Billie%20Eilish%20L%27AMOUR%20DE%20MA%20VIE%20%5Bover%20now%5D"><img align="left" src="./assets/covers/billieeilish-lamourdemavieovernowextendededit.jpg" width="64" height="64" alt="L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT] - Single"></a>&nbsp; <a href="https://open.spotify.com/search/Billie%20Eilish%20L%27AMOUR%20DE%20MA%20VIE%20%5Bover%20now%5D"><b>L'AMOUR DE MA VIE [over now]</b></a><br>&nbsp; <sub>Billie Eilish</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://open.spotify.com/search/Billie%20Eilish%20everybody%20dies"><img align="left" src="./assets/covers/billieeilish-everybodydies.jpg" width="64" height="64" alt="Happier Than Ever"></a>&nbsp; <a href="https://open.spotify.com/search/Billie%20Eilish%20everybody%20dies"><b>everybody dies</b></a><br>&nbsp; <sub>Billie Eilish</sub></td>
+<td width="50%"><a href="https://open.spotify.com/search/Billie%20Eilish%20Your%20Power"><img align="left" src="./assets/covers/billieeilish-yourpower.jpg" width="64" height="64" alt="Happier Than Ever"></a>&nbsp; <a href="https://open.spotify.com/search/Billie%20Eilish%20Your%20Power"><b>Your Power</b></a><br>&nbsp; <sub>Billie Eilish</sub></td>
+</tr>
+</table>
 
-<b>Lana Del Rey</b><br/>
-<a href="https://open.spotify.com/search/Lana%20Del%20Rey%20National%20Anthem">National Anthem</a> · <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20Say%20Yes%20To%20Heaven">Say Yes To Heaven</a> · <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20Doin%27%20Time">Doin' Time</a> · <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20Music%20To%20Watch%20Boys%20To">Music To Watch Boys To</a> · <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20White%20Mustang">White Mustang</a><br/><br/>
+<h4>Lana Del Rey</h4>
+<table width="100%">
+<tr>
+<td width="50%"><a href="https://open.spotify.com/search/Lana%20Del%20Rey%20National%20Anthem"><img align="left" src="./assets/covers/lanadelrey-nationalanthem.jpg" width="64" height="64" alt="Born To Die"></a>&nbsp; <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20National%20Anthem"><b>National Anthem</b></a><br>&nbsp; <sub>Lana Del Rey</sub></td>
+<td width="50%"><a href="https://open.spotify.com/search/Lana%20Del%20Rey%20Say%20Yes%20To%20Heaven"><img align="left" src="./assets/covers/lanadelrey-sayyestoheaven.jpg" width="64" height="64" alt="Say Yes To Heaven - Single"></a>&nbsp; <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20Say%20Yes%20To%20Heaven"><b>Say Yes To Heaven</b></a><br>&nbsp; <sub>Lana Del Rey</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://open.spotify.com/search/Lana%20Del%20Rey%20Doin%27%20Time"><img align="left" src="./assets/covers/lanadelrey-dointime.jpg" width="64" height="64" alt="Doin' Time - Single"></a>&nbsp; <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20Doin%27%20Time"><b>Doin' Time</b></a><br>&nbsp; <sub>Lana Del Rey</sub></td>
+<td width="50%"><a href="https://open.spotify.com/search/Lana%20Del%20Rey%20Music%20To%20Watch%20Boys%20To"><img align="left" src="./assets/covers/lanadelrey-musictowatchboysto.jpg" width="64" height="64" alt="Honeymoon"></a>&nbsp; <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20Music%20To%20Watch%20Boys%20To"><b>Music To Watch Boys To</b></a><br>&nbsp; <sub>Lana Del Rey</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://open.spotify.com/search/Lana%20Del%20Rey%20White%20Mustang"><img align="left" src="./assets/covers/lanadelrey-whitemustang.jpg" width="64" height="64" alt="Lust for Life"></a>&nbsp; <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20White%20Mustang"><b>White Mustang</b></a><br>&nbsp; <sub>Lana Del Rey</sub></td>
+<td width="50%"></td>
+</tr>
+</table>
 
-<b>Mitski</b><br/>
-<a href="https://open.spotify.com/search/Mitski%20A%20Pearl">A Pearl</a> · <a href="https://open.spotify.com/search/Mitski%20I%20Bet%20on%20Losing%20Dogs">I Bet on Losing Dogs</a> · <a href="https://open.spotify.com/search/Mitski%20First%20Love%20%2F%20Late%20Spring">First Love / Late Spring</a><br/><br/>
+<h4>Mitski</h4>
+<table width="100%">
+<tr>
+<td width="50%"><a href="https://open.spotify.com/search/Mitski%20A%20Pearl"><img align="left" src="./assets/covers/mitski-apearl.jpg" width="64" height="64" alt="Be the Cowboy"></a>&nbsp; <a href="https://open.spotify.com/search/Mitski%20A%20Pearl"><b>A Pearl</b></a><br>&nbsp; <sub>Mitski</sub></td>
+<td width="50%"><a href="https://open.spotify.com/search/Mitski%20I%20Bet%20on%20Losing%20Dogs"><img align="left" src="./assets/covers/mitski-ibetonlosingdogs.jpg" width="64" height="64" alt="Puberty 2"></a>&nbsp; <a href="https://open.spotify.com/search/Mitski%20I%20Bet%20on%20Losing%20Dogs"><b>I Bet on Losing Dogs</b></a><br>&nbsp; <sub>Mitski</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://open.spotify.com/search/Mitski%20First%20Love%20%2F%20Late%20Spring"><img align="left" src="./assets/covers/mitski-firstlovelatespring.jpg" width="64" height="64" alt="Bury Me At Makeout Creek"></a>&nbsp; <a href="https://open.spotify.com/search/Mitski%20First%20Love%20%2F%20Late%20Spring"><b>First Love / Late Spring</b></a><br>&nbsp; <sub>Mitski</sub></td>
+<td width="50%"></td>
+</tr>
+</table>
 
-<b>Монеточка</b><br/>
-<a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9F%D0%B0%D0%BF%D0%B8%D0%BD%D0%B0%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D0%BD%D0%B8%D1%86%D0%B0">Папина любовница</a> · <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9A%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D1%80%D0%B0%D0%B7">Каждый раз</a> · <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9D%D0%B8%D0%BC%D1%84%D0%BE%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0">Нимфоманка</a> · <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9C%D0%BE%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%8F">Монополия</a><br/><br/>
+<h4>Монеточка</h4>
+<table width="100%">
+<tr>
+<td width="50%"><a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9F%D0%B0%D0%BF%D0%B8%D0%BD%D0%B0%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D0%BD%D0%B8%D1%86%D0%B0"><img align="left" src="./assets/covers/монеточка-папиналюбовница.jpg" width="64" height="64" alt="Декоративно-прикладное искусство"></a>&nbsp; <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9F%D0%B0%D0%BF%D0%B8%D0%BD%D0%B0%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D0%BD%D0%B8%D1%86%D0%B0"><b>Папина любовница</b></a><br>&nbsp; <sub>Монеточка</sub></td>
+<td width="50%"><a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9A%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D1%80%D0%B0%D0%B7"><img align="left" src="./assets/covers/монеточка-каждыйраз.jpg" width="64" height="64" alt="Раскраски для взрослых"></a>&nbsp; <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9A%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D1%80%D0%B0%D0%B7"><b>Каждый раз</b></a><br>&nbsp; <sub>Монеточка</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9D%D0%B8%D0%BC%D1%84%D0%BE%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0"><img align="left" src="./assets/covers/монеточка-нимфоманка.jpg" width="64" height="64" alt="Раскраски для взрослых"></a>&nbsp; <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9D%D0%B8%D0%BC%D1%84%D0%BE%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0"><b>Нимфоманка</b></a><br>&nbsp; <sub>Монеточка</sub></td>
+<td width="50%"><a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9C%D0%BE%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%8F"><img align="left" src="./assets/covers/монеточка-монополия.jpg" width="64" height="64" alt="Молитвы. Анекдоты. Тосты."></a>&nbsp; <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9C%D0%BE%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%8F"><b>Монополия</b></a><br>&nbsp; <sub>Монеточка</sub></td>
+</tr>
+</table>
+
+</details>
+
+<br>
+
+## Happier Than Ever
+
+<img src="./assets/happier-orbit.svg" width="100%" alt="Animated musical orbit: all 16 songs from Happier Than Ever moving around the album artwork">
+
+<details>
+<summary>Album tracklist</summary>
+
+1. [Getting Older](https://open.spotify.com/search/Billie%20Eilish%20Getting%20Older)
+2. [I Didn’t Change My Number](https://open.spotify.com/search/Billie%20Eilish%20I%20Didn%E2%80%99t%20Change%20My%20Number)
+3. [Billie Bossa Nova](https://open.spotify.com/search/Billie%20Eilish%20Billie%20Bossa%20Nova)
+4. [my future](https://open.spotify.com/search/Billie%20Eilish%20my%20future)
+5. [Oxytocin](https://open.spotify.com/search/Billie%20Eilish%20Oxytocin)
+6. [GOLDWING](https://open.spotify.com/search/Billie%20Eilish%20GOLDWING)
+7. [Lost Cause](https://open.spotify.com/search/Billie%20Eilish%20Lost%20Cause)
+8. [Halley’s Comet](https://open.spotify.com/search/Billie%20Eilish%20Halley%E2%80%99s%20Comet)
+9. [Not My Responsibility](https://open.spotify.com/search/Billie%20Eilish%20Not%20My%20Responsibility)
+10. [OverHeated](https://open.spotify.com/search/Billie%20Eilish%20OverHeated)
+11. [Everybody Dies](https://open.spotify.com/search/Billie%20Eilish%20Everybody%20Dies)
+12. [Your Power](https://open.spotify.com/search/Billie%20Eilish%20Your%20Power)
+13. [NDA](https://open.spotify.com/search/Billie%20Eilish%20NDA)
+14. [Therefore I Am](https://open.spotify.com/search/Billie%20Eilish%20Therefore%20I%20Am)
+15. [Happier Than Ever](https://open.spotify.com/search/Billie%20Eilish%20Happier%20Than%20Ever)
+16. [Male Fantasy](https://open.spotify.com/search/Billie%20Eilish%20Male%20Fantasy)
 
 </details>
 
