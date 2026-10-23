@@ -1,40 +1,133 @@
-# Y-NYM
+<img src="./assets/profile-banner.svg" width="100%" alt="Y-NYM — Frontend developer & AI enthusiast, with HIT ME HARD AND SOFT artwork">
 
-**Frontend developer**
-
-I build minimal, interactive web experiences. Currently learning more about
-frontend development and exploring how AI can change the way we build software.
-
-[LinkedIn](https://www.linkedin.com/in/y-nym) &nbsp; / &nbsp; [Instagram](https://www.instagram.com/bekkhruwww/) &nbsp; / &nbsp; [Telegram](https://t.me/Bekkhruzs)
+<div align="center">
 
 <br>
 
-## Work & interests
+<a href="https://www.linkedin.com/in/y-nym"><img src="https://img.shields.io/badge/LinkedIn-112c46?style=for-the-badge&logo=linkedin&logoColor=a4cce8" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/bekkhruwww/"><img src="https://img.shields.io/badge/Instagram-112c46?style=for-the-badge&logo=instagram&logoColor=a4cce8" alt="Instagram"></a>
+<a href="https://t.me/Bekkhruzs"><img src="https://img.shields.io/badge/Telegram-112c46?style=for-the-badge&logo=telegram&logoColor=a4cce8" alt="Telegram"></a>
 
-Clean interfaces, thoughtful details, and room to experiment.
-I'm interested in AI-powered products and always learning through new ideas.
-Open to opportunities where I can contribute and grow.
+<br><br>
 
-| Development | Tools |
-| :--- | :--- |
-| HTML, CSS, JavaScript, TypeScript | Git, GitHub, Figma, VS Code |
-| React, Next.js, Tailwind CSS, Three.js | ChatGPT, Claude, Gemini, Google AI Studio |
+<i>don't be embarrassed to love what u love and be who u are</i>
+
+</div>
+
+<br>
+
+## About me
+
+<img align="right" src="https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png" width="180" alt="Billie Eilish — HIT ME HARD AND SOFT">
+
+I build modern, minimal and interactive web experiences with a strong interest in AI.
+
+- **Frontend development** — clean interfaces and thoughtful details.
+- **Currently learning** — React, Next.js and new ways to build for the web.
+- **Exploring** — AI-powered products and how AI changes software development.
+- **Open to opportunities** where I can contribute, experiment and grow.
+
+<br clear="right">
+
+## Tech stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,git,github,figma,vscode&perline=6&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Three.js, Git, GitHub, Figma and VS Code">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/ChatGPT-112c46?style=for-the-badge&logo=openai&logoColor=a4cce8" alt="ChatGPT">
+<img src="https://img.shields.io/badge/Claude-112c46?style=for-the-badge&logo=anthropic&logoColor=a4cce8" alt="Claude">
+<img src="https://img.shields.io/badge/Gemini-112c46?style=for-the-badge&logo=googlegemini&logoColor=a4cce8" alt="Gemini">
+<img src="https://img.shields.io/badge/Google_AI_Studio-112c46?style=for-the-badge&logo=google&logoColor=a4cce8" alt="Google AI Studio">
+</p>
 
 <br>
 
 ## On repeat
 
-**[CHIHIRO](https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO)** &nbsp; Billie Eilish  
-<sub>Listening on Spotify</sub>
+<table width="100%">
+<tr>
+<td width="140">
+<a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO"><img src="https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png" width="128" alt="HIT ME HARD AND SOFT album cover"></a>
+</td>
+<td>
+<sub>Now playing</sub><br><br>
+<a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO"><b>CHIHIRO</b></a><br>
+Billie Eilish<br><br>
+<img src="https://img.shields.io/badge/Listen_on_Spotify-112c46?style=flat-square&logo=spotify&logoColor=a4cce8" alt="Listen on Spotify">
+</td>
+</tr>
+</table>
 
 ### Favorite tracks
 
-| Artist | Tracks |
-| :--- | :--- |
-| Billie Eilish | [CHIHIRO](https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO) · [L'AMOUR DE MA VIE](https://open.spotify.com/search/Billie%20Eilish%20L%27AMOUR%20DE%20MA%20VIE) |
-| Lana Del Rey | [Say Yes To Heaven](https://open.spotify.com/search/Lana%20Del%20Rey%20Say%20Yes%20To%20Heaven) · [National Anthem](https://open.spotify.com/search/Lana%20Del%20Rey%20National%20Anthem) |
-| Mitski | [First Love / Late Spring](https://open.spotify.com/search/Mitski%20First%20Love%20Late%20Spring) · [A Pearl](https://open.spotify.com/search/Mitski%20A%20Pearl) |
-| Монеточка | [Папина любовница](https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9F%D0%B0%D0%BF%D0%B8%D0%BD%D0%B0%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D0%BD%D0%B8%D1%86%D0%B0) · [Каждый раз](https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9A%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D1%80%D0%B0%D0%B7) |
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png" width="64" height="64" alt="CHIHIRO" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/Billie%20Eilish%20CHIHIRO"><b>CHIHIRO</b></a><br/>
+      &nbsp; <sub>Billie Eilish</sub>
+    </td>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/Billie%20Eilish%20L%27AMOUR%20DE%20MA%20VIE">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png" width="64" height="64" alt="L'AMOUR DE MA VIE" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/Billie%20Eilish%20L%27AMOUR%20DE%20MA%20VIE"><b>L'AMOUR DE MA VIE</b></a><br/>
+      &nbsp; <sub>Billie Eilish</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20Say%20Yes%20To%20Heaven">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/en/2/29/BornToDieAlbumCover.png" width="64" height="64" alt="Say Yes To Heaven" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20Say%20Yes%20To%20Heaven"><b>Say Yes To Heaven</b></a><br/>
+      &nbsp; <sub>Lana Del Rey</sub>
+    </td>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20National%20Anthem">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/en/2/29/BornToDieAlbumCover.png" width="64" height="64" alt="National Anthem" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/Lana%20Del%20Rey%20National%20Anthem"><b>National Anthem</b></a><br/>
+      &nbsp; <sub>Lana Del Rey</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/Mitski%20First%20Love%20Late%20Spring">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/en/f/f8/Mitskipuberty2.jpg" width="64" height="64" alt="First Love / Late Spring" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/Mitski%20First%20Love%20Late%20Spring"><b>First Love / Late Spring</b></a><br/>
+      &nbsp; <sub>Mitski</sub>
+    </td>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/Mitski%20A%20Pearl">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/en/f/f8/Mitskipuberty2.jpg" width="64" height="64" alt="A Pearl" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/Mitski%20A%20Pearl"><b>A Pearl</b></a><br/>
+      &nbsp; <sub>Mitski</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9F%D0%B0%D0%BF%D0%B8%D0%BD%D0%B0%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D0%BD%D0%B8%D1%86%D0%B0">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0_%28%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82_%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%B2_%D0%902%29_2019_%28cropped%29.jpg" width="64" height="64" alt="Папина любовница" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9F%D0%B0%D0%BF%D0%B8%D0%BD%D0%B0%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D0%BD%D0%B8%D1%86%D0%B0"><b>Папина любовница</b></a><br/>
+      &nbsp; <sub>Монеточка</sub>
+    </td>
+    <td width="50%">
+      <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9A%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D1%80%D0%B0%D0%B7">
+        <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0_%28%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82_%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B8_%D0%B2_%D0%902%29_2019_%28cropped%29.jpg" width="64" height="64" alt="Каждый раз" />
+      </a>
+      &nbsp; <a href="https://open.spotify.com/search/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BE%D1%87%D0%BA%D0%B0%20%D0%9A%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D1%80%D0%B0%D0%B7"><b>Каждый раз</b></a><br/>
+      &nbsp; <sub>Монеточка</sub>
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary>More tracks</summary>
@@ -55,38 +148,25 @@ Open to opportunities where I can contribute and grow.
 
 <br>
 
-<details>
-<summary>GitHub activity</summary>
+## GitHub activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Y-NYM&show_icons=true&hide_border=true&bg_color=0b2036&title_color=9dcaeb&text_color=c0d1e0&icon_color=78b1d8" width="54%" alt="Y-NYM's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-NYM&layout=compact&hide_border=true&bg_color=0b2036&title_color=9dcaeb&text_color=c0d1e0" width="41%" alt="Top languages">
+</p>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Y-NYM&show_icons=true&hide_border=true&theme=github_dark">
-  <img src="https://github-readme-stats.vercel.app/api?username=Y-NYM&show_icons=true&hide_border=true&theme=default" alt="Y-NYM's GitHub stats">
-</picture>
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-NYM&layout=compact&hide_border=true&theme=github_dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-NYM&layout=compact&hide_border=true&theme=default" alt="Top languages">
-</picture>
+<i>your face is a reflection of the love of two people<br>who wanted to become something more for each other</i>
 
-<img src="https://komarev.com/ghpvc/?username=Y-NYM&label=Views&color=6e7681&style=flat-square" alt="Profile views">
-
-</details>
-
-<br>
-
-> don't be embarrassed to love what u love and be who u are
-
-<details>
-<summary>A thought to keep</summary>
-
-<br>
-
-> your face is a reflection of the love of two people who wanted to become something more for each other
-
-</details>
-
----
+<br><br>
 
 <sub>building things, exploring ideas, and trying to make the web a little more beautiful.</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Y-NYM&label=Profile%20views&color=244d70&style=flat-square" alt="Profile views">
+
+</div>
