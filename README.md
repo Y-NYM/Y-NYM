@@ -198,7 +198,7 @@ Billie Eilish<br><br>
 
 ## Happier Than Ever
 
-<img src="./assets/happier-orbit.svg" width="100%" alt="Animated musical orbit: all 16 songs from Happier Than Ever moving around the album artwork">
+<img src="./assets/happier-orbit.svg?v=3" width="100%" alt="Animated musical orbit: all 16 songs from Happier Than Ever moving around the album artwork">
 
 <details>
 <summary>Album tracklist</summary>
